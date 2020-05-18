@@ -1,4 +1,4 @@
-def call(){
-    println("hello")
+def call(String name='luck'){
+    println("hello ${name}")
 
 }
